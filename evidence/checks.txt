@@ -1,0 +1,8 @@
+$ go test ./...
+?   	example.com/pr8/cmd/api	[no test files]
+?   	example.com/pr8/internal/db	[no test files]
+?   	example.com/pr8/internal/notes	[no test files]
+
+
+$ go vet ./...
+
